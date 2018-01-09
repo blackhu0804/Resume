@@ -48,7 +48,7 @@
 ## 技能
 
 - 熟悉HTML语义化和常见CSS布局
-- 熟悉JS语言特性，了解闭包，原型链，了解ES6语法
+- 熟悉JS语言特性，，了解ES6语法
 - 熟悉JQuery、BootStrap的使用
 - 了解Git、Webpack的使用
 - 了解Linux常用命令，目前使用Deepin进行开发
