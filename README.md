@@ -5,7 +5,7 @@
 - 手机：15563853050
 - 邮箱：812510003@qq.com
 - GItHub： https://github.com/hu970804
-- Blog：https://github.com/hu970804/Learn-notes/issues
+- Blog：http://www.blackhu.site/
 
 ## 教育经历
 
