@@ -23,7 +23,7 @@
 ### 2. 手机端豆瓣电影
 
 - 使用HTML、CSS、JQuery构建页面
-- 使用Webpack打包工具
+- 使用Webpack打包
 - 使用AJAX获取豆瓣电影API
 - 预览地址：https://hu970804.github.io/Mobile-douban-movie/
 
@@ -48,7 +48,7 @@
 ## 技能
 
 - 熟悉HTML语义化和常见CSS布局
-- 熟悉JS语言特性，，了解ES6语法
+- 熟悉JS语言特性，了解ES6语法
 - 熟悉JQuery、BootStrap的使用
 - 了解Git、Webpack的使用
 - 了解Linux常用命令，目前使用Deepin进行开发
